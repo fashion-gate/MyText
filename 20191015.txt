@@ -1,0 +1,13 @@
+WordPressにおいて、メインドメインの配置サイトをサブディレクトリに配置しないこと。設定が面倒なことが有る。
+----
+Search Replace DB 3.1がphp7.3.9で動かないのでphp7.2に戻して下記のエラー消した。
+----
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wapuu/www/sakai/Search-Replace-DB-master/srdb.class.php on line 861
+----
+wordpressのダウンロードをサクラのコンパネから行った。
+SSHしてコンソール上でやる作業の何倍も時間がかかった。
+コンパネのパスワードを再発行するのをユーザにやらせると、
+さらに時間がかかりそう。
+さくらのパスワード管理はわかりにくい。
+会員メニュー（契約管理画面）から自由にコンパネの
+パスワードを変更できればいいのではないか？
