@@ -1,4 +1,5 @@
 ----
+----
 git branch dev/gomiryo # ブランチを作成
 git checkout dev/gomiryo # ブランチを切り替え
 git branch # 現在のリポジトリのブランチを表示
