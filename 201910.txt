@@ -1,5 +1,29 @@
 ----
 ----
+----
+----
+----
+洗脳するアプリ
+----
+radix
+----
+まずい店でまずい料理を食べる。
+----
+blumaとlocalstrageを試しに使ってみました。
+https://qiita.com/ryo2132/items/63ced19601b3fa30e6de
+https://bulma.io/documentation/overview/start/
+----
+io-standard
+----
+E2E...エンドトゥエンド
+----
+serenium-timesでroop
+----
+With times you can specify a number of iterations you would like to perform a set of commands. The number goes into the target input field of the times command.
+To close the times command block be sure to use the end command.
+時間を使用して、一連のコマンドを実行する反復回数を指定できます。数値は、timesコマンドのターゲット入力フィールドに入ります。
+timesコマンドブロックを閉じるには、必ずendコマンドを使用してください。
+----
 git branch dev/gomiryo # ブランチを作成
 git checkout dev/gomiryo # ブランチを切り替え
 git branch # 現在のリポジトリのブランチを表示
