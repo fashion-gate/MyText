@@ -1,0 +1,12 @@
+
+----
+
+----
+現代思想と現代哲学が違うものだということを知った
+----
+とりあえず中島らもを尊敬するとか言っておきたい
+----
+blumaをcdnで読み込んでいるがfontを外部から引っ張っている時に
+エラーが出た
+-----
+A cookie associated with a cross-site resource at http://fontawesome.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
