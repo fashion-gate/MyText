@@ -1,6 +1,33 @@
 
+
+
+--------
+--------
+ゾンビ映画をヒューマンドラマにした
+ナイトオブザリビングデッド「A・ロメロ監督」
 ----
+シェーンの裏切りでオーティス死亡。
+生き残るためという意味では選択かもしれないが。
 ----
+リックの同僚シェーンは基本いいやつだと思うんだけど、
+（リックに銃口を向けたことはあるけど）生理的に好きになれない。
+（女子みたいな言い方するけど）
+----
+まるで墓場。
+----
+元通りに組み立てるのは難しい。
+リックと妻と友人の３角関係問題どう解消するんだろう。
+いや解消しないのか。
+エピソード２。
+CDCからフォートべニング基地へ。
+CDCの科学者が何かをリックにつぶやいたが内容は明らかにされていない。
+----
+getLoacale関数でenとデフォルトだと出力されるっぽい。
+----
+迂回。先導。
+----
+laravelのpublic内に公開したいファイルを置いておけば、
+とりあえずどこからもアクセスできるようになる。
 ----
 chromeのconsole.logは参照渡しのものは評価時に変わる
 https://analogic.jp/console-dir-log-caution/
@@ -10,8 +37,9 @@ https://analogic.jp/console-dir-log-caution/
 現代思想と現代哲学が違うものだということを知った
 ----
 とりあえず中島らもを尊敬するとか言っておきたい
+(というより言っていたらしい
 ----
-blumaをcdnで読み込んでいるがfontを外部から引っ張っている時に
-エラーが出た
+blumaをcdnで読み込んでいるが、
+fontを外部から引っ張っている時にエラーが出た
 -----
 A cookie associated with a cross-site resource at http://fontawesome.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
