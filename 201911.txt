@@ -1,5 +1,14 @@
---------
 
+--------
+--------
+--------
+--------
+--------
+この辺を参考にxdiffをインスコ
+https://akio0911.net/archives/2670
+http://php.asse-server.net/ref.xdiff.html
+http://pecl.php.net/package/xdiff
+https://qiita.com/dksatou/items/23c2a2567540eebc0ed9
 --------
 gitのurlにユーザパスを追加して入力を省略した。
 https://qiita.com/azusanakano/items/8dc1d7e384b00239d4d9
