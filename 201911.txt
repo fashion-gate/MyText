@@ -1,11 +1,12 @@
-
 --------
 --------
 --------
+広東広場というところへ行く予定。
+けっこう量が多いらしい。次郎ほどじゃないでしょうけど。
 --------
-オートコミットを自動化
+オートコミットを自動化した。
 --------
-この辺を参考にxdiffをインスコ
+この辺を参考にxdiffをインスコしてみた（テストサーバ
 https://akio0911.net/archives/2670
 http://php.asse-server.net/ref.xdiff.html
 http://pecl.php.net/package/xdiff
