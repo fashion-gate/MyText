@@ -3,6 +3,10 @@
 --------
 --------
 --------
+/etc/crontab
+systemctl restart crond
+vi /var/log/cron
+…cron久しぶりに設定
 --------
 scpは非推奨で今後はsftpを使うほうがいいらしい…。
 --------
