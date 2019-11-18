@@ -7,6 +7,25 @@
 systemctl restart crond
 vi /var/log/cron
 …cron久しぶりに設定
+----
+php artisan make:model -m Bbs
+を実行すると…app/Bbs.phpが作成される。
+-mはマイグレーションファイルを一緒に作成するよ！という意味なにり、
+database/migrations/2019_11_17_070909_create_bbs_table.php
+などというファイルが作成されている。
+#migrationしたのち…
+php artisan migrate
+#コントローラを生成
+php artisan make:controller BbsController --resource --model=Bbs
+--------
+Publish your packages
+You can now safely publish and consume packages within your organization or with the entire world using GitHub Packages.
+パッケージを公開する
+組織内で、またはGitHubパッケージを使用して世界中でパッケージを安全に公開および使用できるようになりました。
+----
+リックは無神論者
+--------
+シェーンはシェーンでいろいろなことを苦しんでいる。
 --------
 BMWと日産の自動運転は何が違うのか？？東洋経済の本が気になった。
 ----------------
