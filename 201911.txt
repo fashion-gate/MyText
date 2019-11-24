@@ -23,6 +23,10 @@ You can now safely publish and consume packages within your organization or with
 パッケージを公開する
 組織内で、またはGitHubパッケージを使用して世界中でパッケージを安全に公開および使用できるようになりました。
 ----
+マンマ・ミーアの主人公は、
+アマンダ・セイフライドだが、
+レ・ミゼラブルのコゼット役。
+----
 リックは無神論者
 --------
 シェーンはシェーンでいろいろなことを苦しんでいる。
