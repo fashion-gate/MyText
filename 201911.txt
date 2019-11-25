@@ -17,15 +17,25 @@ database/migrations/2019_11_17_070909_create_bbs_table.php
 php artisan migrate
 #コントローラを生成
 php artisan make:controller BbsController --resource --model=Bbs
---------
+----
 Publish your packages
 You can now safely publish and consume packages within your organization or with the entire world using GitHub Packages.
 パッケージを公開する
 組織内で、またはGitHubパッケージを使用して世界中でパッケージを安全に公開および使用できるようになりました。
 ----
-マンマ・ミーアの主人公は、
-アマンダ・セイフライドだが、
-レ・ミゼラブルのコゼット役。
+等差数列の和の公式というものがある。
+１から１０まで加算すると５５になる（そろばんの練習で使われる
+自己組織化探索…よく使うものを選び出す
+鶴亀算、植木算、旅人算、流水算、通過算、
+仕事算、時計算、和差算
+開閉法…平方根を求める
+おつりは補数で計算できる
+円の方程式よりブレゼンハムのアルゴリズムがよい。
+シーケンシャルサーチ、バイナリサーチ
+二文法、ニュートン法、ガウス・ジョルダン法、
+
+----
+マンマ・ミーアの主人公は、アマンダ・セイフライドだが、レ・ミゼラブルのコゼット役。
 ----
 リックは無神論者
 --------
